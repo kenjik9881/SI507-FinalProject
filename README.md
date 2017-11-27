@@ -37,3 +37,10 @@ I will also pull off historical data about just Bitcoin. This will look at the H
 - [ ] Use data from Bitcoin page to create another database with just data from Bitcoin
 - [ ] Query the database to compare the Market Cap of Bitcoin on the each to the market cap of Bitcoin on the home page
 - [ ] Find the days on which the market cap was higher in the last month compared to the currrent day
+
+### Part 4: Writing Tests
+- [ ] Write 15 Test methods and 2 subclasses (Still TBD)
+
+### Part 5: Visualizing the Data
+- [ ] Learn how to use Plotly to create a chart that shows the information from Part I, particularly charting the price of the top 10 cryptocurrencies
+- [ ] Use plotly to visualize the historical price data of Bitcoin from Part 2
