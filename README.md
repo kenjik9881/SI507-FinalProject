@@ -32,5 +32,8 @@ I will also pull off historical data about just Bitcoin. This will look at the H
     - Market Cap for that day
 - [ ] Parse this data using BeautifulSoup
 
-
-
+### Part 3: Creating and using Databases
+- [ ] Use data from the Homepage to create one database with the data from the top 10 cryptocurrencies
+- [ ] Use data from Bitcoin page to create another database with just data from Bitcoin
+- [ ] Query the database to compare the Market Cap of Bitcoin on the each to the market cap of Bitcoin on the home page
+- [ ] Find the days on which the market cap was higher in the last month compared to the currrent day
