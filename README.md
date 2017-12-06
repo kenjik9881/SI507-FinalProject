@@ -2,25 +2,27 @@
 
 I am interested in scraping information from coinmarketcap.com to pull in data of the Top 10 cryptocurrencies.
 This data will contain the:
-• Market Cap
-• Price
-• Circulating Supply
-• Price change over last 24H
+- [ ] Market Cap
+- [ ] Price
+- [ ] Circulating Supply
+- [ ] Price change over last 24H
 
 I will also pull off historical data about just Bitcoin. This will look at the High price for each day over the last past month. It will pull the date and high price for Bitcoin for this time period.
 
 [Updates!]
-• Potential logic: if current price is lower than average of the past thirty days, then trigger buy. 
+- [ ] Potential logic: if current price is lower than average of the past thirty days, then trigger buy. 
 (Make it green or red for sell)
-• Market data - can also include which market has it currently the lowest so you can market arbitrage and buy bitcoin at the lowest
-• Delete the tables (2 PM, 3 PM--we will want to to delete the tables and update)
+- [ ] Market data - can also include which market has it currently the lowest so you can market arbitrage and buy bitcoin at the lowest
+- [ ] Delete the tables (2 PM, 3 PM--we will want to to delete the tables and update)
 
 What I want to show
-• All cryptos --get historical data
-• Top 10 will update
-• Show which coins are best to buy now
-• Show which exchange you should be buying on
+- [ ] All cryptos --get historical data
+- [ ] Top 10 will update
+- [ ] Show which coins are best to buy now
+- [ ] Show which exchange you should be buying on
 
+Things to remember:
+- [ ] Caching should expiry every 1 hour. (Nytimes code?)
 
 ### Part 1: Scraping the homepage using BeautifulSoup
 
