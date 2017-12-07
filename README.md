@@ -22,7 +22,7 @@ What I want to show
 - [ ] Show which exchange you should be buying on
 
 Things to remember:
-- [ ] Caching should expiry every 1 hour. (Nytimes code?)
+- [X] Caching should expiry every 1 hour. (Nytimes code?)
 
 ### Part 1: Scraping the homepage using BeautifulSoup
 
