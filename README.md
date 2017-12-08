@@ -1,5 +1,14 @@
 # SI507-FinalProject
 
+General Requirements:
+- [ ] __repr__ method
+- [ ] __contains__ method
+- [ ] __repr__ method
+- [ ] Two database tables, with at least one relationship between them
+- [ ] 15 test methods
+- [ ] 2 Unittest classes
+- [ ] one setUp and one tearDown
+
 I am interested in scraping information from coinmarketcap.com to pull in data of the Top 10 cryptocurrencies.
 This data will contain the:
 - [ ] Market Cap
